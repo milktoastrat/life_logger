@@ -11,6 +11,7 @@ __pycache__/
 *.db
 *.log
 *.bak
+logs/*.log
 
 # VS Code or PyCharm (optional)
 .vscode/
