@@ -64,22 +64,6 @@
 
 ---
 
-## 📁 Folder Structure
-
-life_logger/
-├── config/ # API credentials (ignored by .gitignore)
-│ ├── retro_config.example.json
-│ └── strava_config.example.json
-├── scripts/ # Data fetching scripts
-├── dashboard/ # Streamlit frontend
-├── database/ # SQL schema or tools
-├── Dockerfile
-├── requirements.txt
-├── .gitignore
-└── README.md
-
----
-
 ## 📄 License
 
 This project is open source under the [MIT License](LICENSE).
