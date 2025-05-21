@@ -1,0 +1,7 @@
+{
+  "client_id": "your_strava_client_id",
+  "client_secret": "your_strava_client_secret",
+  "refresh_token": "your_strava_refresh_token",
+  "access_token": "your_strava_access_token",
+  "expires_at": 1747381561
+}

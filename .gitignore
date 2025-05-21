@@ -1,0 +1,21 @@
+# Environment files
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+
+# Databases & logs
+*.sqlite
+*.db
+*.log
+*.bak
+
+# VS Code or PyCharm (optional)
+.vscode/
+.idea/
+
+# Config files with secrets (but allow example ones)
+config/*.json
+!config/*.example.json
