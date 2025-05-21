@@ -11,7 +11,6 @@
 - 🚴‍♂️ **Strava** — logged workouts  
 - 📺 **YouTube** — watch history and channel info  
 - 📚 **Books** — currently tracking books read  
-- 🕹 **Steam** — in progress (not yet timestamp-accurate)  
 
 ---
 
